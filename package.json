@@ -9,15 +9,15 @@
   "gxDependencies": [
     {
       "author": "armon",
-      "hash": "QmbwLbJ419DTWPmybom8s9qTQmQb71eTvQ1xWXKTQ92vDb",
+      "hash": "QmaUYN8r6z6HewW5CTUzPsS4FCBqHzrCcGWp5odzfDuP6T",
       "name": "go-metrics",
-      "version": "2017.1.3"
+      "version": "2017.7.27"
     },
     {
       "author": "ugorji",
-      "hash": "QmRpRGNbrm6aaU7bnt6AwcJCfyETkdJzmtBdCazMYKoMux",
+      "hash": "QmXdv3XMrMmE8duxqGkRtuJFmJdwPthaDHjgcfRk6UKR1W",
       "name": "go-codec",
-      "version": "2017.1.3"
+      "version": "2017.7.27"
     }
   ],
   "gxVersion": "0.10.0",
