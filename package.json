@@ -9,15 +9,15 @@
   "gxDependencies": [
     {
       "author": "armon",
-      "hash": "QmaUYN8r6z6HewW5CTUzPsS4FCBqHzrCcGWp5odzfDuP6T",
+      "hash": "QmUrgLLGnscs3MxZ8EDiBfbT7KuV7CE19T65ddrmWmoKFE",
       "name": "go-metrics",
-      "version": "2017.7.27"
+      "version": "2017.10.18"
     },
     {
       "author": "ugorji",
-      "hash": "QmXdv3XMrMmE8duxqGkRtuJFmJdwPthaDHjgcfRk6UKR1W",
+      "hash": "QmVTAmbCaPqdfbmpWDCJMQNFxbyJoG2USFsumXmTWY5LFp",
       "name": "go-codec",
-      "version": "2017.7.27"
+      "version": "2017.10.18"
     }
   ],
   "gxVersion": "0.10.0",
@@ -25,6 +25,6 @@
   "license": "Mozilla Public License, version 2.0",
   "name": "raft",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "2017.7.27"
+  "version": "1.0.0"
 }
 
